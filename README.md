@@ -3,7 +3,15 @@
   🚀 Just another curious soul building cool things and trying not to break production 🙃  
   <br/>
   🌐 <a href="https://kaushikeebhatt.vercel.app/" target="_blank">Kaushikee_Bhatt</a>
-</p>
+
+![Alt Text](dino.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+CREATIVITY+zone!)](https://git.io/typing-svg)
+
+🎓 Final Year @ VIT Chennai
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=21&pause=1000&color=4363F7&width=435&lines=Learning+New+Things+Everyday!)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 🚀 I'm currently working on<br>D2D - a platform for designers to discover design hackathons, latest trends, and connect through community forums<br>🤝 I'm looking to collaborate on<br>Projects that blend creative design with data-driven insights and meaningful user experiences<br>💛 I'm looking for help with<br>Advanced data scraping techniques and building scalable community features<br>🌱 I'm currently learning<br>Python for data analysis, advanced React patterns, and user research methodologies<br>💬 Ask me about<br>UI/UX design, web development, or how to make data storytelling more engaging<br>⚡ Fun fact<br>I don’t need an alarm, just the smell of caffeine and a mild sense of panic 😵‍💫☕💨
