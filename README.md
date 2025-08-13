@@ -5,6 +5,8 @@
   🌐 <a href="https://kaushikeebhatt.vercel.app/" target="_blank">Kaushikee_Bhatt</a>
 
 ![Alt Text](dino.gif)
+![dino](https://github.com/user-attachments/assets/f08362af-d9a5-4271-95a7-291461929a02)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+CREATIVITY+zone!)](https://git.io/typing-svg)
 
